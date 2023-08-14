@@ -109,3 +109,4 @@ function gemsToDiamond(firstFriendGems, secondFriendGems, thirdFriendGems) {
 
 let output5 = gemsToDiamond(20, 200, 50);
 console.log(output5);
+
